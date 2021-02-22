@@ -1,4 +1,4 @@
 # meta-go-echo
 
-Meta layer to add go-echo in version 0.1.0 as systemd service.
+Meta layer to add go-echo in version 0.3.0 as systemd service.
 Additionally the by default enabled Mender-Client-Service is disabled.

@@ -1,5 +1,5 @@
 SUMMARY = "Go-Echo"
-DESCRIPTION = "Simple echo client written in Go in version 0.1.0."
+DESCRIPTION = "Simple echo client written in Go in version 0.3.0."
 LICENSE = "Apache-2.0"
 LIC_FILES_CHKSUM = "file://${COREBASE}/meta/files/common-licenses/Apache-2.0;md5=89aea4e17d99a7cacdbeed46a0096b10"
 
