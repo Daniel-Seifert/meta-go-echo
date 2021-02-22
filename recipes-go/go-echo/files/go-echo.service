@@ -1,0 +1,12 @@
+[Unit]
+Description=go-echo
+
+[Service]
+ExecStart=@BINDIR@/go-echo
+Restart=always
+RestartSec=60
+StartLimitBurst=1200
+User=root
+
+[Install]
+WantedBy=multi-user.target
